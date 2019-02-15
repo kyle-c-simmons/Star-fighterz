@@ -10,6 +10,7 @@ A space invaders clone development in Java with processing. The game contains mu
 ### Playing the game
 
 Controls:
+* Arrow keys to move
 * S - Start the game (main menu)
 * H - Help menu (main menu)
 * B - Go back
