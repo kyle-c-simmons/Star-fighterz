@@ -1,6 +1,6 @@
 # Starfighterz
 
-A space invaders clone development in Java with processing. The game contains multiple levels, bosses, win and lose mechanics.
+A space invaders clone developed in Java with processing. The game contains multiple levels, bosses, win and lose mechanics.
 
 ### Requirements
 
