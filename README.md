@@ -45,7 +45,7 @@ To run the game, import the project into an IDE and run the Starfighterz.java cl
 
 ## Authors
 
-* **Kyle Simmons** - [Github kyle-c-simmons](https://github.com/kyle-c-simmons)
+* **Kyle Simmons** - [Github - kyle-c-simmons](https://github.com/kyle-c-simmons)
 
 ## License
 
