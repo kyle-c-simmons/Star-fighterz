@@ -18,19 +18,19 @@ Controls:
 * B - return to main menu (in game)
 
 #### Main menu
-![alt main menu immage](https://github.com/kyle-c-simmons/Star-fighterz/tree/master/images)
+![alt main menu image](https://github.com/kyle-c-simmons/Star-fighterz/tree/master/images/mainmenu.png)
 
 
 #### Help menu
-![alt help menu immage](https://github.com/kyle-c-simmons/Star-fighterz/blob/master/images/help.png)
+![alt help menu image](https://github.com/kyle-c-simmons/Star-fighterz/blob/master/images/help.png)
 
 
 #### In-game enemies
-![alt help menu immage](https://github.com/kyle-c-simmons/Star-fighterz/blob/master/images/game.png)
+![alt in-game enemies immage](https://github.com/kyle-c-simmons/Star-fighterz/blob/master/images/game.png)
 
 
 #### In-game boss
-![alt help menu immage](https://github.com/kyle-c-simmons/Star-fighterz/blob/master/images/boss.png)
+![alt in-game boss image](https://github.com/kyle-c-simmons/Star-fighterz/blob/master/images/boss.png)
 
 
 ## Running the game
