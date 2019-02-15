@@ -1,2 +1,2 @@
 # Star-fighterz
-Java space invaders clone 
+Java and processing space invaders clone 
