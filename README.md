@@ -19,7 +19,7 @@ Controls:
 * B - return to main menu (in game)
 
 #### Main menu
-![alt main menu image](https://github.com/kyle-c-simmons/Star-fighterz/tree/master/images/mainmenu.png)
+![alt main menu image](https://github.com/kyle-c-simmons/Star-fighterz/blob/master/images/mainmenu.png)
 
 
 #### Help menu
